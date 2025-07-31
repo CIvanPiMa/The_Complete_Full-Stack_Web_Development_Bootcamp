@@ -1,0 +1,41 @@
+{
+  "recommendations": [
+    // TypeScript & JavaScript
+    "ms-vscode.vscode-typescript-next",
+    "bradlc.vscode-tailwindcss",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    // React
+    "dsznajder.es7-react-js-snippets",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "ms-vscode.vscode-json",
+    // HTML & CSS
+    "ecmel.vscode-html-css",
+    "bradlc.vscode-tailwindcss",
+    "zignd.html-css-class-completion",
+    "pranaygp.vscode-css-peek",
+    // Git & Version Control
+    "mhutchie.git-graph",
+    // Development Tools
+    "ms-vscode.live-server",
+    "christian-kohler.path-intellisense",
+    "christian-kohler.npm-intellisense",
+    "ms-vscode.vscode-npm-script",
+    // Code Quality & Formatting
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "gruntfuggly.todo-tree",
+    // Debugging & Testing
+    "ms-vscode.vscode-node-debug2",
+    "hbenl.vscode-test-explorer",
+    // Markdown enhancements
+    "foam.foam-vscode",
+    "yzhang.markdown-all-in-one",
+    "davidanson.vscode-markdownlint",
+    "bierner.markdown-mermaid",
+    "shd101wyy.markdown-preview-enhanced",
+    // Writing and Spell Checking
+    "streetsidesoftware.code-spell-checker",
+  ]
+}
