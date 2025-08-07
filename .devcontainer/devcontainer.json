@@ -15,6 +15,7 @@
         3000,
         3001,
         5000,
+        5173,
         8080
     ],
     "portsAttributes": {
@@ -36,9 +37,9 @@
         }
     },
     // Use 'postCreateCommand' to run commands after the container is created
-    "postCreateCommand": "npm install -g pnpm yarn create-react-app @angular/cli @vue/cli vite",
+    // "postCreateCommand": "npm install -g pnpm yarn create-react-app @angular/cli @vue/cli vite",
     // Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root
-    "remoteUser": "node",
+    // "remoteUser": "node",
     // Configure container features
     "features": {},
     // Environment variables
